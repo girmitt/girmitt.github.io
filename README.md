@@ -1,3 +1,3 @@
 # Girmitt Designs
 
-This is a webisite for [Girmitt Designs](http://girmitt.in).
+This is a website for [Girmitt Designs](http://girmitt.in).
